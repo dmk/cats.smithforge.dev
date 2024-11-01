@@ -1,5 +1,10 @@
 import Image from "next/image";
 
+export const metadata = {
+  title: 'Cat Gallery - SmithForge.dev',
+  description: 'Explore the adorable cat gallery at SmithForge.dev! A playful collection of feline moments, featuring Ruby, Lulu, and more. Dive into the world of whiskers and purrs.',
+};
+
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-between min-h-screen max-h-[98vh] max-w-screen overflow-hidden p-8 pb-8 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
