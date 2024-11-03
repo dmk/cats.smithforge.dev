@@ -15,6 +15,10 @@ const config: Config = {
       animation: {
         'spin-slow': 'spin 6s linear infinite', // Slower rotation (6s cycle)
       },
+      scale: {
+        '102': '1.02',
+        '103': '1.03',
+      },
     },
   },
   plugins: [],
