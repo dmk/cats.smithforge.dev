@@ -5,6 +5,7 @@ import React, { useMemo, useState } from 'react';
 import images from '@/assets/cats.json';
 import PhotoCard from './PhotoCard';
 import { CatImage, CatName } from './types';
+import { badgeColors } from './colors';
 
 const PhotoGallery: React.FC = () => {
   const [showFilter, setShowFilter] = useState(false);
@@ -67,24 +68,17 @@ const PhotoGallery: React.FC = () => {
           <h2 className="text-xl font-bold mb-4">Filter by Cat</h2>
           <div className="flex flex-col gap-4">
             <form>
-              <label className="flex items-center gap-2">
-                <input
-                  type="checkbox"
-                  checked={selectedCats.includes('Ruby')}
-                  onChange={() => handleCheckboxChange('Ruby')}
-                  className="form-checkbox h-5 w-5 text-purple-600"
-                />
-                Ruby
-              </label>
-              <label className="flex items-center gap-2">
-                <input
-                  type="checkbox"
-                  checked={selectedCats.includes('Lulu')}
-                  onChange={() => handleCheckboxChange('Lulu')}
-                  className="form-checkbox h-5 w-5 text-purple-600"
-                />
-                Lulu
-              </label>
+              {Object.keys(badgeColors).map((catName) => (
+                <label key={`form-check-${catName}`} className="flex items-center gap-2">
+                  <input
+                    type="checkbox"
+                    checked={selectedCats.includes(catName)}
+                    onChange={() => handleCheckboxChange(catName)}
+                    className="form-checkbox h-5 w-5 text-purple-600"
+                  />
+                  {catName}
+                </label>
+              ))}
             </form>
           </div>
           <div className="flex gap-4 mt-6">

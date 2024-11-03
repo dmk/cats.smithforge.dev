@@ -1,5 +1,37 @@
 [
   {
+    "thumbnail": "/images/cats/thumbnails/casper-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/casper-1.avif",
+    "name": "casper-1",
+    "cats": [
+      "Casper"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/casper-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/casper-2.avif",
+    "name": "casper-2",
+    "cats": [
+      "Casper"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/casper-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/casper-3.avif",
+    "name": "casper-3",
+    "cats": [
+      "Casper"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/casper-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/casper-4.avif",
+    "name": "casper-4",
+    "cats": [
+      "Casper"
+    ]
+  },
+  {
     "thumbnail": "/images/cats/thumbnails/lulu-1-thumb.avif",
     "fullSize": "/images/cats/fullsize/lulu-1.avif",
     "name": "lulu-1",

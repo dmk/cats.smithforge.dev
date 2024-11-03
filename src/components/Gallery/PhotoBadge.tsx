@@ -1,5 +1,6 @@
 import React from "react";
 import { CatName } from "./types";
+import { badgeColors } from "./colors";
 
 interface PhotoBadgeProps {
   cat: CatName;
@@ -9,9 +10,11 @@ interface PhotoBadgeProps {
 const PhotoBadge: React.FC<PhotoBadgeProps> = ({ cat, index }) => {
   return (
     <div
-      className={`absolute top-2 left-2 ${cat === 'Ruby' ? 'bg-red-600' : 'bg-cyan-600'} 
-                  text-white text-xs font-semibold px-3 py-1 rounded-md shadow-md`}
-      style={{ transform: `translateX(${index * 60}px)` }}
+      className='absolute top-2 left-2 text-white text-xs font-semibold px-3 py-1 rounded-md shadow-md'
+      style={{
+        transform: `translateX(${index * 60}px)`,
+        ...badgeColors[cat],
+      }}
     >
       {cat}
     </div>
