@@ -8,3 +8,9 @@
   -webkit-user-drag: none;
   cursor: 'default';
 }
+
+@supports (-webkit-touch-callout: none) {
+  .safari-disable-scale {
+    transform: none !important; /* Disable transform on Safari */
+  }
+}

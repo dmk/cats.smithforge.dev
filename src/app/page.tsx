@@ -10,7 +10,9 @@ export default function Home() {
     <div className="flex flex-col items-center justify-between min-h-screen max-w-screen p-8 pb-8 gap-16 md:px-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col items-center justify-center gap-2">
         {/* Title Element */}
-        <h1 className="text-4xl font-bold text-center">cats.</h1>
+        <h1 className="text-4xl font-bold text-center cursor-default">
+          cats.
+        </h1>
         
         <PhotoGallery />
       </main>

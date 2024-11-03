@@ -24,7 +24,7 @@ const PhotoModal: React.FC<PhotoModalProps> = ({ isOpen, onClose, image }) => {
             xmlns="http://www.w3.org/2000/svg"
             id="Vector"
             d="M16 16L12 12M12 12L8 8M12 12L16 8M12 12L8 16"
-            stroke="#000000"
+            stroke="#ffffff"
             strokeWidth="2"
             strokeLinecap="round"
             strokeLinejoin="round"

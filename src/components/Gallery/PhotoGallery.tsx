@@ -9,7 +9,7 @@ const PhotoGallery: React.FC = () => {
   return (
     <div className="w-full flex items-center">
       <div className="max-w-6xl mx-auto">
-        <div className="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-6 py-6">
+        <div className="columns-2 sm:columns-3 lg:columns-4 xl:columns-5 gap-6 py-6">
           {(images as CatImage[])
             .reverse()
             .map((image: CatImage, index: number) => (

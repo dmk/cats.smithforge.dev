@@ -17,7 +17,7 @@ const thumbnailsDir = path.resolve('./public/images/cats/thumbnails');
 const fullSizeDir = path.resolve('./public/images/cats/fullsize');
 
 // JSON output
-const outputJson = path.resolve('./src/assets/images.json');
+const outputJson = path.resolve('./src/assets/cats.json');
 
 // Helper functions
 const readdir = promisify(fs.readdir);

@@ -1,21 +1,5 @@
 [
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-1.avif",
-    "name": "lulu-1",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/lulu-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-2.avif",
-    "name": "lulu-2",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
     "thumbnail": "/images/cats/thumbnails/ruby-1-thumb.avif",
     "fullSize": "/images/cats/fullsize/ruby-1.avif",
     "name": "ruby-1",
@@ -24,69 +8,11 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-3.avif",
-    "name": "lulu-3",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/both-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/both-1.avif",
-    "name": "both-1",
-    "cats": [
-      "Ruby",
-      "Lulu"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/lulu-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-4.avif",
-    "name": "lulu-4",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/lulu-5-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-5.avif",
-    "name": "lulu-5",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/lulu-6-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-6.avif",
-    "name": "lulu-6",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/both-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/both-2.avif",
-    "name": "both-2",
-    "cats": [
-      "Ruby",
-      "Lulu"
-    ]
-  },
-  {
     "thumbnail": "/images/cats/thumbnails/ruby-2-thumb.avif",
     "fullSize": "/images/cats/fullsize/ruby-2.avif",
     "name": "ruby-2",
     "cats": [
       "Ruby"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/lulu-7-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-7.avif",
-    "name": "lulu-7",
-    "cats": [
-      "Lulu"
     ]
   },
   {
@@ -122,19 +48,91 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-8-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-8.avif",
-    "name": "lulu-8",
-    "cats": [
-      "Lulu"
-    ]
-  },
-  {
     "thumbnail": "/images/cats/thumbnails/ruby-7-thumb.avif",
     "fullSize": "/images/cats/fullsize/ruby-7.avif",
     "name": "ruby-7",
     "cats": [
       "Ruby"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/ruby-8-thumb.avif",
+    "fullSize": "/images/cats/fullsize/ruby-8.avif",
+    "name": "ruby-8",
+    "cats": [
+      "Ruby"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/ruby-9-thumb.avif",
+    "fullSize": "/images/cats/fullsize/ruby-9.avif",
+    "name": "ruby-9",
+    "cats": [
+      "Ruby"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-1.avif",
+    "name": "lulu-1",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-2.avif",
+    "name": "lulu-2",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-3.avif",
+    "name": "lulu-3",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-4.avif",
+    "name": "lulu-4",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-5-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-5.avif",
+    "name": "lulu-5",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-6-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-6.avif",
+    "name": "lulu-6",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-7-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-7.avif",
+    "name": "lulu-7",
+    "cats": [
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/lulu-8-thumb.avif",
+    "fullSize": "/images/cats/fullsize/lulu-8.avif",
+    "name": "lulu-8",
+    "cats": [
+      "Lulu"
     ]
   },
   {
@@ -154,15 +152,6 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/both-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/both-3.avif",
-    "name": "both-3",
-    "cats": [
-      "Ruby",
-      "Lulu"
-    ]
-  },
-  {
     "thumbnail": "/images/cats/thumbnails/lulu-11-thumb.avif",
     "fullSize": "/images/cats/fullsize/lulu-11.avif",
     "name": "lulu-11",
@@ -171,28 +160,39 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-8-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-8.avif",
-    "name": "ruby-8",
-    "cats": [
-      "Ruby"
-    ]
-  },
-  {
-    "thumbnail": "/images/cats/thumbnails/both-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/both-4.avif",
-    "name": "both-4",
+    "thumbnail": "/images/cats/thumbnails/ruby-lulu-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/ruby-lulu-1.avif",
+    "name": "ruby-lulu-1",
     "cats": [
       "Ruby",
       "Lulu"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-9-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-9.avif",
-    "name": "ruby-9",
+    "thumbnail": "/images/cats/thumbnails/ruby-lulu-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/ruby-lulu-2.avif",
+    "name": "ruby-lulu-2",
     "cats": [
-      "Ruby"
+      "Ruby",
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/ruby-lulu-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/ruby-lulu-3.avif",
+    "name": "ruby-lulu-3",
+    "cats": [
+      "Ruby",
+      "Lulu"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/ruby-lulu-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/ruby-lulu-4.avif",
+    "name": "ruby-lulu-4",
+    "cats": [
+      "Ruby",
+      "Lulu"
     ]
   }
 ]

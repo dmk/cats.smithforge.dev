@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@svgr/webpack": "^8.1.0",
     "cli-progress": "^3.12.0",
     "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
