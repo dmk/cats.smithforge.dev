@@ -5,7 +5,7 @@ import path from 'path';
 import sharp from 'sharp';
 import { promisify } from 'util';
 import cliProgress from 'cli-progress';
-import { CatImage, CatName } from '@/components/CatGallery/types';
+import { CatImage, CatName } from '@/components/Gallery/types';
 
 const THUMBNAIL_SIZE = 420
 
@@ -109,12 +109,12 @@ async function processImages() {
           await sharp(inputPath)
             .resize(THUMBNAIL_SIZE) // Thumbnail size
             .toFormat('avif')
-            .withMetadata({ exif: null })
+            .withMetadata({ exif: undefined })
             .toFile(thumbnailOutputPath);
 
           await sharp(inputPath)
             .toFormat('avif')
-            .withMetadata({ exif: null })
+            .withMetadata({ exif: undefined })
             .toFile(fullSizeOutputPath);
 
           // Set the timestamps of the new files to match the original file
@@ -160,12 +160,12 @@ async function processImages() {
         await sharp(inputPath)
           .resize(THUMBNAIL_SIZE) // Thumbnail size
           .toFormat('avif')
-          .withMetadata({ exif: null })
+          .withMetadata({ exif: undefined })
           .toFile(thumbnailOutputPath);
 
         await sharp(inputPath)
           .toFormat('avif')
-          .withMetadata({ exif: null })
+          .withMetadata({ exif: undefined })
           .toFile(fullSizeOutputPath);
 
         // Set the timestamps of the new files to match the original file
