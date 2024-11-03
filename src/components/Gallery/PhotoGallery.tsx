@@ -6,6 +6,14 @@ import images from '@/assets/cats.json';
 import PhotoCard from './PhotoCard';
 import { CatImage, CatName } from './types';
 import { badgeColors } from './colors';
+import Masonry from 'react-masonry-css';
+
+const breakpointColumns = {
+  default: 5,
+  1280: 4,
+  768: 3,
+  640: 2,
+};
 
 const PhotoGallery: React.FC = () => {
   const [showFilter, setShowFilter] = useState(false);
@@ -32,16 +40,17 @@ const PhotoGallery: React.FC = () => {
 
   return (
     <div className="relative w-full flex items-center">
-      <div className="max-w-6xl mx-auto">
-        <div className="columns-2 sm:columns-3 lg:columns-4 xl:columns-5 gap-6 py-6">
-          {filteredImages
-            .map((image: CatImage, index: number) => (
-              <div key={index} className="mb-6 break-inside-avoid overflow-visible">
-                <PhotoCard image={image} />
-              </div>
-            ))}
-        </div>
-      </div>
+      <Masonry
+        breakpointCols={breakpointColumns}
+        className="my-masonry-grid"
+        columnClassName="my-masonry-grid_column"
+      >
+        {filteredImages.map((image: CatImage, index: number) => (
+          <div key={index} className="mb-6">
+            <PhotoCard image={image} />
+          </div>
+        ))}
+      </Masonry>
 
       {/* Floating Filter Button */}
       <button
@@ -84,13 +93,13 @@ const PhotoGallery: React.FC = () => {
           <div className="flex gap-4 mt-6">
             <button
               onClick={resetFilters}
-              className="p-2 w-full bg-blue-500 text-white rounded hover:bg-blue-600"
+              className="p-2 w-full bg-blue-500 text-white rounded-lg hover:bg-blue-600"
             >
               Reset Filters
             </button>
             <button
               onClick={() => setShowFilter(false)}
-              className="p-2 w-full bg-red-500 text-white rounded hover:bg-red-600"
+              className="p-2 w-full bg-red-500 text-white rounded-lg hover:bg-red-600"
             >
               Close
             </button>
