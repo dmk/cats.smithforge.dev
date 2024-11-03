@@ -5,6 +5,7 @@
 import React, { useState } from "react";
 import { CatImage } from "./types";
 import PhotoModal from "./PhotoModal";
+import PhotoBadge from "./PhotoBadge";
 
 interface PhotoCardProps {
   image: CatImage;
@@ -36,14 +37,7 @@ const PhotoCard: React.FC<PhotoCardProps> = ({ image }) => {
           className="block w-full rounded-lg"
         />
         {image.cats.map((cat, index) => (
-          <div
-            key={cat}
-            className={`absolute top-2 left-2 ${cat === 'Ruby' ? 'bg-red-600' : 'bg-cyan-600'} 
-                        text-white text-xs font-semibold px-3 py-1 rounded-md shadow-md`}
-            style={{ transform: `translateX(${index * 60}px)` }}
-          >
-            {cat}
-          </div>
+          <PhotoBadge key={index} cat={cat} index={index} />
         ))}
       </div>
 

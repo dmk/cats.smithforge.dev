@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
+
+import PhotoBadge from "./PhotoBadge";
 import { CatImage } from "./types";
 
 interface PhotoModalProps {
@@ -43,15 +45,7 @@ const PhotoModal: React.FC<PhotoModalProps> = ({ isOpen, onClose, image }) => {
             style={{ maxHeight: "85vh", maxWidth: "100%" }}
           />
           {image.cats.map((cat, index) => (
-            <div
-              key={cat}
-              className={`absolute top-4 left-4 ${
-                cat === "Ruby" ? "bg-red-600" : "bg-cyan-600"
-              } text-white text-xs font-semibold px-3 py-1 rounded-md shadow-md`}
-              style={{ transform: `translateX(${index * 60}px)` }}
-            >
-              {cat}
-            </div>
+            <PhotoBadge key={index} index={index} cat={cat} />
           ))}
         </div>
       </div>

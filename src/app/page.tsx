@@ -19,7 +19,7 @@ export default function Home() {
 
       {/* Footer at Bottom */}
       <footer className="w-full text-gray-300 text-sm text-center mx-4 mb-1/2">
-        © {new Date().getFullYear()} SmithForge.dev. Created by Dmytro Koval. All rights reserved.
+        © 2024 SmithForge.dev. Created by Dmytro Koval. All rights reserved.
       </footer>
     </div>
   );
