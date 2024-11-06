@@ -1,5 +1,54 @@
 [
   {
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-1.avif",
+    "name": "лулу-рубі-1",
+    "cats": [
+      "Лулу",
+      "Рубі"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/шелдон-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/шелдон-1.avif",
+    "name": "шелдон-1",
+    "cats": [
+      "Шелдон"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/шелдон-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/шелдон-2.avif",
+    "name": "шелдон-2",
+    "cats": [
+      "Шелдон"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/шелдон-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/шелдон-3.avif",
+    "name": "шелдон-3",
+    "cats": [
+      "Шелдон"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/яша-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/яша-1.avif",
+    "name": "яша-1",
+    "cats": [
+      "Яша"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/яша-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/яша-2.avif",
+    "name": "яша-2",
+    "cats": [
+      "Яша"
+    ]
+  },
+  {
     "thumbnail": "/images/cats/thumbnails/рубі-1-thumb.avif",
     "fullSize": "/images/cats/fullsize/рубі-1.avif",
     "name": "рубі-1",
@@ -120,9 +169,9 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/лулу-рубі-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/лулу-рубі-1.avif",
-    "name": "лулу-рубі-1",
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-2.avif",
+    "name": "лулу-рубі-2",
     "cats": [
       "Лулу",
       "Рубі"
@@ -153,9 +202,9 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/лулу-рубі-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/лулу-рубі-2.avif",
-    "name": "лулу-рубі-2",
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-3.avif",
+    "name": "лулу-рубі-3",
     "cats": [
       "Лулу",
       "Рубі"
@@ -242,9 +291,9 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/лулу-рубі-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/лулу-рубі-3.avif",
-    "name": "лулу-рубі-3",
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-4.avif",
+    "name": "лулу-рубі-4",
     "cats": [
       "Лулу",
       "Рубі"
@@ -267,9 +316,9 @@
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/лулу-рубі-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/лулу-рубі-4.avif",
-    "name": "лулу-рубі-4",
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-5-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-5.avif",
+    "name": "лулу-рубі-5",
     "cats": [
       "Лулу",
       "Рубі"
