@@ -1,11 +1,51 @@
 [
   {
+    "thumbnail": "/images/cats/thumbnails/лола-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лола-1.avif",
+    "name": "лола-1",
+    "cats": [
+      "Лола"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лола-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лола-2.avif",
+    "name": "лола-2",
+    "cats": [
+      "Лола"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лола-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лола-3.avif",
+    "name": "лола-3",
+    "cats": [
+      "Лола"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лола-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лола-4.avif",
+    "name": "лола-4",
+    "cats": [
+      "Лола"
+    ]
+  },
+  {
     "thumbnail": "/images/cats/thumbnails/лулу-рубі-1-thumb.avif",
     "fullSize": "/images/cats/fullsize/лулу-рубі-1.avif",
     "name": "лулу-рубі-1",
     "cats": [
       "Лулу",
       "Рубі"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лола-5-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лола-5.avif",
+    "name": "лола-5",
+    "cats": [
+      "Лола"
     ]
   },
   {

@@ -25,4 +25,8 @@ export const badgeColors: Record<CatName, Record<'backgroundColor' | 'color', st
     backgroundColor: '#4f46e5',
     color: '#ffffff',
   },
+  'Лола': {
+    backgroundColor: '#e879f9',
+    color: '#4a044e',
+  },
 }

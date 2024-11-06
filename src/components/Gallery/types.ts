@@ -1,4 +1,4 @@
-export type CatName = 'Рубі' | 'Лулу' | 'Каспер' | 'Лєля' | 'Шелдон' | 'Яша';
+export type CatName = 'Рубі' | 'Лулу' | 'Каспер' | 'Лєля' | 'Шелдон' | 'Яша' | 'Лола';
 
 export interface CatImage {
   thumbnail: string;
