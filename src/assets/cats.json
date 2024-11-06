@@ -1,230 +1,286 @@
 [
   {
-    "thumbnail": "/images/cats/thumbnails/casper-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/casper-1.avif",
-    "name": "casper-1",
+    "thumbnail": "/images/cats/thumbnails/рубі-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-1.avif",
+    "name": "рубі-1",
     "cats": [
-      "Casper"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/casper-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/casper-2.avif",
-    "name": "casper-2",
+    "thumbnail": "/images/cats/thumbnails/лєля-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лєля-1.avif",
+    "name": "лєля-1",
     "cats": [
-      "Casper"
+      "Лєля"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/casper-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/casper-3.avif",
-    "name": "casper-3",
+    "thumbnail": "/images/cats/thumbnails/лєля-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лєля-2.avif",
+    "name": "лєля-2",
     "cats": [
-      "Casper"
+      "Лєля"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/casper-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/casper-4.avif",
-    "name": "casper-4",
+    "thumbnail": "/images/cats/thumbnails/лєля-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лєля-3.avif",
+    "name": "лєля-3",
     "cats": [
-      "Casper"
+      "Лєля"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-1.avif",
-    "name": "lulu-1",
+    "thumbnail": "/images/cats/thumbnails/лєля-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лєля-4.avif",
+    "name": "лєля-4",
     "cats": [
-      "Lulu"
+      "Лєля"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-2.avif",
-    "name": "lulu-2",
+    "thumbnail": "/images/cats/thumbnails/лулу-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-1.avif",
+    "name": "лулу-1",
     "cats": [
-      "Lulu"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-1.avif",
-    "name": "ruby-1",
+    "thumbnail": "/images/cats/thumbnails/рубі-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-2.avif",
+    "name": "рубі-2",
     "cats": [
-      "Ruby"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-3.avif",
-    "name": "lulu-3",
+    "thumbnail": "/images/cats/thumbnails/каспер-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/каспер-1.avif",
+    "name": "каспер-1",
     "cats": [
-      "Lulu"
+      "Каспер"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-ruby-1-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-ruby-1.avif",
-    "name": "lulu-ruby-1",
+    "thumbnail": "/images/cats/thumbnails/каспер-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/каспер-2.avif",
+    "name": "каспер-2",
     "cats": [
-      "Lulu",
-      "Ruby"
+      "Каспер"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-4.avif",
-    "name": "lulu-4",
+    "thumbnail": "/images/cats/thumbnails/каспер-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/каспер-3.avif",
+    "name": "каспер-3",
     "cats": [
-      "Lulu"
+      "Каспер"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-5-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-5.avif",
-    "name": "lulu-5",
+    "thumbnail": "/images/cats/thumbnails/каспер-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/каспер-4.avif",
+    "name": "каспер-4",
     "cats": [
-      "Lulu"
+      "Каспер"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-6-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-6.avif",
-    "name": "lulu-6",
+    "thumbnail": "/images/cats/thumbnails/лулу-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-2.avif",
+    "name": "лулу-2",
     "cats": [
-      "Lulu"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-ruby-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-ruby-2.avif",
-    "name": "lulu-ruby-2",
+    "thumbnail": "/images/cats/thumbnails/лулу-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-3.avif",
+    "name": "лулу-3",
     "cats": [
-      "Lulu",
-      "Ruby"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-2-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-2.avif",
-    "name": "ruby-2",
+    "thumbnail": "/images/cats/thumbnails/рубі-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-3.avif",
+    "name": "рубі-3",
     "cats": [
-      "Ruby"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-7-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-7.avif",
-    "name": "lulu-7",
+    "thumbnail": "/images/cats/thumbnails/лулу-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-4.avif",
+    "name": "лулу-4",
     "cats": [
-      "Lulu"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-3.avif",
-    "name": "ruby-3",
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-1-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-1.avif",
+    "name": "лулу-рубі-1",
     "cats": [
-      "Ruby"
+      "Лулу",
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-4.avif",
-    "name": "ruby-4",
+    "thumbnail": "/images/cats/thumbnails/лулу-5-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-5.avif",
+    "name": "лулу-5",
     "cats": [
-      "Ruby"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-5-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-5.avif",
-    "name": "ruby-5",
+    "thumbnail": "/images/cats/thumbnails/лулу-6-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-6.avif",
+    "name": "лулу-6",
     "cats": [
-      "Ruby"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-6-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-6.avif",
-    "name": "ruby-6",
+    "thumbnail": "/images/cats/thumbnails/лулу-7-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-7.avif",
+    "name": "лулу-7",
     "cats": [
-      "Ruby"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-8-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-8.avif",
-    "name": "lulu-8",
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-2-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-2.avif",
+    "name": "лулу-рубі-2",
     "cats": [
-      "Lulu"
+      "Лулу",
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-7-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-7.avif",
-    "name": "ruby-7",
+    "thumbnail": "/images/cats/thumbnails/рубі-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-4.avif",
+    "name": "рубі-4",
     "cats": [
-      "Ruby"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-9-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-9.avif",
-    "name": "lulu-9",
+    "thumbnail": "/images/cats/thumbnails/лулу-8-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-8.avif",
+    "name": "лулу-8",
     "cats": [
-      "Lulu"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-10-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-10.avif",
-    "name": "lulu-10",
+    "thumbnail": "/images/cats/thumbnails/рубі-5-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-5.avif",
+    "name": "рубі-5",
     "cats": [
-      "Lulu"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-ruby-3-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-ruby-3.avif",
-    "name": "lulu-ruby-3",
+    "thumbnail": "/images/cats/thumbnails/рубі-6-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-6.avif",
+    "name": "рубі-6",
     "cats": [
-      "Lulu",
-      "Ruby"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-11-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-11.avif",
-    "name": "lulu-11",
+    "thumbnail": "/images/cats/thumbnails/рубі-7-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-7.avif",
+    "name": "рубі-7",
     "cats": [
-      "Lulu"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-8-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-8.avif",
-    "name": "ruby-8",
+    "thumbnail": "/images/cats/thumbnails/рубі-8-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-8.avif",
+    "name": "рубі-8",
     "cats": [
-      "Ruby"
+      "Рубі"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/lulu-ruby-4-thumb.avif",
-    "fullSize": "/images/cats/fullsize/lulu-ruby-4.avif",
-    "name": "lulu-ruby-4",
+    "thumbnail": "/images/cats/thumbnails/лулу-9-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-9.avif",
+    "name": "лулу-9",
     "cats": [
-      "Lulu",
-      "Ruby"
+      "Лулу"
     ]
   },
   {
-    "thumbnail": "/images/cats/thumbnails/ruby-9-thumb.avif",
-    "fullSize": "/images/cats/fullsize/ruby-9.avif",
-    "name": "ruby-9",
+    "thumbnail": "/images/cats/thumbnails/рубі-9-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-9.avif",
+    "name": "рубі-9",
     "cats": [
-      "Ruby"
+      "Рубі"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лулу-10-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-10.avif",
+    "name": "лулу-10",
+    "cats": [
+      "Лулу"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лулу-11-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-11.avif",
+    "name": "лулу-11",
+    "cats": [
+      "Лулу"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-3-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-3.avif",
+    "name": "лулу-рубі-3",
+    "cats": [
+      "Лулу",
+      "Рубі"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лулу-12-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-12.avif",
+    "name": "лулу-12",
+    "cats": [
+      "Лулу"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/рубі-10-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-10.avif",
+    "name": "рубі-10",
+    "cats": [
+      "Рубі"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/лулу-рубі-4-thumb.avif",
+    "fullSize": "/images/cats/fullsize/лулу-рубі-4.avif",
+    "name": "лулу-рубі-4",
+    "cats": [
+      "Лулу",
+      "Рубі"
+    ]
+  },
+  {
+    "thumbnail": "/images/cats/thumbnails/рубі-11-thumb.avif",
+    "fullSize": "/images/cats/fullsize/рубі-11.avif",
+    "name": "рубі-11",
+    "cats": [
+      "Рубі"
     ]
   }
 ]

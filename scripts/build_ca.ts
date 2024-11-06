@@ -29,7 +29,8 @@ const isImageFile = (file: string) => (
   file.endsWith('.jpg') ||
   file.endsWith('.jpeg') ||
   file.endsWith('.png') ||
-  file.endsWith('.JPG')
+  file.endsWith('.JPG') || 
+  file.endsWith('.HEIC')
 );
 
 // Function to determine cat names from directory name
